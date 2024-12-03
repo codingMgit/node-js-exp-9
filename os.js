@@ -1,7 +1,6 @@
 const os = require("os");
 console.log("Data Retrieved by Using OS Module in Node Js.\n");
-// console.log("Hostname: " + os.hostname() + "\n");
-console.log("Hostname: rohan " + "\n");
+console.log("Hostname: " + os.hostname() + "\n");
 console.log("Architecture: " + os.arch() + "\n");
 console.log("OS Platform: " + os.platform() + "\n");
 console.log("OS Type: " + os.type() + "\n");
